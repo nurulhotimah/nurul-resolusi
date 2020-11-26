@@ -1,0 +1,4 @@
+rencana belajar kedepannya
+- belajar ci 
+ci3 
+- belajar laravel
