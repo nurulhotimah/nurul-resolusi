@@ -1,6 +1,0 @@
-rencana belajar kedepannya
-- belajar ci 
-ci3 
-ci4
-- belajar laravel
-- phyton
